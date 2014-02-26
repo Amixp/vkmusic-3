@@ -1,0 +1,7 @@
+settings = {
+    'api_id': 1933717,
+    'email': 'name@host.com',
+    'password': '12345678',
+    'album_id': 123456,
+    'directory': '/home/name/Music'
+}
